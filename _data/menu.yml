@@ -12,23 +12,25 @@ menu_pages:
   icon_name: fas fa-home
   category: home
 
-- title: Category 1
+- title: Ingenieria/DevOps/Coding
   url: /category-1.html
   show_on_home: True
   image_url: assets/img/category-1.jpg
-  icon_name: fas fa-dice
+  icon_name: fas fa-code
   category: category-1
   tooltip: This is category 1
-  description: Category 1 description, which is written in menu.yml file under :description property
+  description: "Dev, Cloud, IaaC, cosas aburridas para muchos y muy divertidas para otros
+  tantos 👨‍💻" 
 
-- title: Category 2
+- title: Personal
   url: /category-2.html
   show_on_home: True
   image_url: assets/img/category-2.jpg
-  icon_name: fas fa-cogs
+  icon_name: fas fa-user
   category: category-2
   tooltip: This is category 2
-  description: Category 2 description, which is written in menu.yml file under :description property
+  description: "Temas personales, humanos, sociales, musica, deporte, cosas que me gustan en general. Nota: Aca tambien pueden haber cosas
+  tecnicas asi que ir con cuidado 👀"
 
 - title: About
   url: about.html
@@ -39,11 +41,17 @@ menu_pages:
 
 menu_contacts:
 - faicon: fab fa-github-alt
-  url: 
+  url: https://github.com/juancarestre
   target: _blank
 - faicon: fab fa-twitter
-  url: 
+  url: https://twitter.com/juancarestre
+  target: _blank
+- faicon: fab fa-instagram
+  url: https://instagram.com/juancarestre
   target: _blank
 - faicon: fas fa-envelope
-  url:
-  target: 
+  url:  mailto:jcrestrepobedoya@gmail.com
+  target: _blank
+- faicon: fab fa-linkedin
+  url: https://www.linkedin.com/in/juan-restrepo-it/
+  target: _blank

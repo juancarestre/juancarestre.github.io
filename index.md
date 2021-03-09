@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Juan Restrepo
-summary: This is summary in the home-page. It can be anything really, from describing what this website is about, to some texts about cats and dogs. If you want to see the source code of this theme, feel free to check out the repository on <a href="https://github.com/ItsMeaga1n/minimal-categorized" target="_blank">GitHub</a>.
+title: "@juancarestre"
+summary: Hola, me llamo Juan Restrepo, muchos me conocen como 'Peto'.
+ Ingeniero de Telecomunicaciones que le gusta tirar codigo a morir, actualmente trabajo como DevOps Engineer, es decir conecto el desarrollo de software con las operaciones en la nube, casi siempre en AWS :), me gustan los videojuegos 🎮 , la calistenia y el MMA. Larga vida al metal 🤘.
 category: home
 ---
