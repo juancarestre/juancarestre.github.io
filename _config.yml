@@ -26,7 +26,6 @@ twitter:
   card: summary
 plugins:
   - jekyll-seo-tag
-  - jekyll-youtube
 
 # Build settings
 markdown: kramdown
