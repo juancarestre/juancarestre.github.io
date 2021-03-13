@@ -18,11 +18,11 @@ layout: default
                         {% endif %}
                             <i class="fas fa-angle-right"></i>
                             {{ post.title }}
+                            <div class="post-tittle-image">
+                                <img class="post-tittle-image" src="../assets/img/category-1.jpg" alt="post-image">
+                            </div>
                         </a>
                     </h2>
-                    <div class="post-tittle-image">
-                        <img class="post-tittle-image" src="../assets/img/category-1.jpg" alt="Italian Trulli">
-                    </div>
                     <p class="article-date">{{ post.date | date: "%Y-%m-%d" }}</p>
                 </header>
                 <section>
