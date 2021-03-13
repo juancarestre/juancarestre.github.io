@@ -11,8 +11,6 @@ summary: DynamoDB es una base de datos genial si y solo si la sabes usar, pero t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
- <!-- {% YouTube "https://www.youtube.com/watch?v=dQw4w9WgXcQ" %} -->
-
 ### Test of syntax highlights
 {% highlight shell linenos %}
 # bash
