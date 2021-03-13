@@ -1,6 +1,6 @@
 menu_title: Juancarestre
 menu_headline: juancarestre
-menu_intro: menu intro
+menu_intro: ...
 show_menu_on_gate_page: False
 minimal_menu: True
 menu_logo: assets/img/avatar.png
@@ -29,8 +29,7 @@ menu_pages:
   icon_name: fas fa-user
   category: category-2
   tooltip: This is category 2
-  description: "Temas personales, humanos, sociales, musica, deporte, cosas que me gustan en general. Nota: Aca tambien pueden haber cosas
-  tecnicas asi que ir con cuidado 👀"
+  description: "Musica, deporte, opinion y cosas que me gustan en general. Aca tambien pueden haber cosas tecnicas asi que ve con cuidado 👀."
 
 - title: About
   url: about.html

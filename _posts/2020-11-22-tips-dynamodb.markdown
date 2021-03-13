@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Example post 2
+title: Lo que nadie te dice de DynamoDB
 category: category-1
-image: assets/img/post-2.jpg
+image: assets/img/Comonocagarla-dynamodb.jpg
 image_alt: Post image cover
-summary: This is summary of a post. It will appear in the page of it's category with the summary shown. Clicking each of them will redirect to the page of the post. 
+summary: DynamoDB es una base de datos genial si y solo si la sabes usar, pero tiene una curva de aprendizaje mas enganoza que mi ex(?). Aca encontraras algunos tips que te serviran antes de comenzar a usar DynamoDB en tus proyectos. 
 ---
 [Jekyll](https://jekyllrb.com/) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur turpis nec tortor sagittis, in tincidunt lectus iaculis. Sed tempor ligula ac nulla dictum, quis luctus tortor pretium. Suspendisse vitae nibh id sapien tempus posuere eu id ante. Fusce nec neque nisl. Suspendisse velit elit, euismod et lacus a, commodo mollis ligula. Duis non nibh gravida, interdum tellus sed, aliquam libero. Ut et tempor velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+<iframe width="1050" height="600" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ### Test of syntax highlights
 {% highlight shell linenos %}
