@@ -8,8 +8,8 @@ summary: DynamoDB es una base de datos genial si y solo si la sabes usar, pero t
 ---
 [Jekyll](https://jekyllrb.com/) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur turpis nec tortor sagittis, in tincidunt lectus iaculis. Sed tempor ligula ac nulla dictum, quis luctus tortor pretium. Suspendisse vitae nibh id sapien tempus posuere eu id ante. Fusce nec neque nisl. Suspendisse velit elit, euismod et lacus a, commodo mollis ligula. Duis non nibh gravida, interdum tellus sed, aliquam libero. Ut et tempor velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
- {% youtube "https://www.youtube.com/watch?v=dQw4w9WgXcQ" %}
- 
+ {% YouTube "https://www.youtube.com/watch?v=dQw4w9WgXcQ" %}
+
 ### Test of syntax highlights
 {% highlight shell linenos %}
 # bash
