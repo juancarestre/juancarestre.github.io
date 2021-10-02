@@ -48,3 +48,16 @@ footer {
         }
     }
 }
+
+.no-minimal-menu {
+    main {
+        width: $content-width-desktop-minimal-menu;
+        left: $no-minimal-menu-size;
+        @include mobile {
+            top: $no-minimal-menu-size;
+            left: 0;
+            width: 100%;
+            height: calc(100% - #{$no-minimal-menu-size});
+        }
+    }
+}

@@ -166,3 +166,26 @@
         }
     }
 }
+
+.no-minimal-menu {
+    .menu {
+        width: $no-minimal-menu-size;
+        @include mobile {
+            height: $no-minimal-menu-size;
+            width: 100%;
+        }
+        ul {
+            li {
+                a {
+                    i {
+                        margin: 0;
+                    }
+                    @include mobile {
+                        height: calc(#{$no-minimal-menu-size} - 10px);
+                        width: $no-minimal-menu-size;
+                    }
+                }
+            }
+        }
+    }
+}
