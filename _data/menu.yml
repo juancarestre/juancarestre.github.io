@@ -19,8 +19,7 @@ menu_pages:
   icon_name: fas fa-code
   category: category-1
   tooltip: This is category 1
-  description: "Dev, Cloud, IaaC, cosas aburridas para muchos y muy divertidas para otros
-  tantos 👨‍💻" 
+  description: "Dev, Cloud, IaaC, Serverless, AWS. Nerd Stuff 👨‍💻" 
 
 - title: Personal
   url: /category-2.html
@@ -29,7 +28,7 @@ menu_pages:
   icon_name: fas fa-user
   category: category-2
   tooltip: This is category 2
-  description: "Musica, deporte, opinion y cosas que me gustan en general. Aca tambien pueden haber cosas tecnicas asi que ve con cuidado 👀."
+  description: "Musica, deporte, videojuegos y opinion. 💪"
 
 - title: About
   url: about.html
